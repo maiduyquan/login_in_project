@@ -1,0 +1,63 @@
+.container{
+    width: 960px;
+    height: 600px;
+    background-color: rgb(227, 227, 227);
+    border-radius: 10px;
+}
+.img_login{
+    width: 470px;
+    height: auto;
+    float: left;
+}
+.info_login{
+    text-align: center;
+    width: 480px;
+    float: left;
+    size: 50%;
+}
+.text-login{
+    
+}
+.sign-up a{
+    text-decoration: none;
+}
+.sign-up-google button{
+    border-radius: 10px;
+    border-color: white;
+}
+.sign-up-google button:hover{
+    border-color: black;
+}
+.sign-up-google a{
+    text-decoration: none;
+}
+.sign-in-forgot a{
+    text-decoration: none;
+}
+.inputs{
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.inputs-info input{
+    width: 300px;
+    margin: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 4px;
+    padding-right: 4px;
+    border-radius: 10px;
+    border-color: white;
+}
+.login-button button{
+    background-color: rgb(243, 243, 243);
+    width: 200px;
+    margin: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 4px;
+    padding-right: 4px;
+    border-radius: 10px;
+    border-color: white;
+}
+
